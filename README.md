@@ -391,6 +391,7 @@ logEach( '%f', x4 );
 
 ## See Also
 
+-   <span class="package-name">[`@stdlib/random-gamma`][@stdlib/random/gamma]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a gamma distribution.</span>
 -   <span class="package-name">[`@stdlib/random-base/gamma`][@stdlib/random/base/gamma]</span><span class="delimiter">: </span><span class="description">gamma distributed pseudorandom numbers.</span>
 -   <span class="package-name">[`@stdlib/random-strided/gamma`][@stdlib/random/strided/gamma]</span><span class="delimiter">: </span><span class="description">fill a strided array with pseudorandom numbers drawn from a gamma distribution.</span>
 
@@ -479,6 +480,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/float64]: https://github.com/stdlib-js/array-float64
 
 <!-- <related-links> -->
+
+[@stdlib/random/gamma]: https://github.com/stdlib-js/random-gamma
 
 [@stdlib/random/strided/gamma]: https://github.com/stdlib-js/random-strided-gamma
 
